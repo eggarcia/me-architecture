@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T15:02:50.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="oT8R7ykJ68ETtY_6nTZ7" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-31T16:08:49.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="opul5z06HDsAnU5yMBVE" version="16.3.0" type="github">
   <diagram id="M3LDoujkvIOc6I11CLhj" name="Page-1">
-    <mxGraphModel dx="1328" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,6 +201,20 @@
         </mxCell>
         <mxCell id="MdaKC_Cj2TuOLLHy-uLK-45" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;shadow=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#00CC66;" vertex="1" parent="1">
           <mxGeometry x="769" y="529" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="MdaKC_Cj2TuOLLHy-uLK-46" value="" style="shape=mxgraph.gcp2.doubleRect;strokeColor=#dddddd;shadow=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="990" width="360" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="MdaKC_Cj2TuOLLHy-uLK-49" value="&lt;font color=&quot;#000000&quot;&gt;Runtastic/Default&lt;/font&gt;&lt;br&gt;Cloud Pub/Sub" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_pubsub;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="MdaKC_Cj2TuOLLHy-uLK-46">
+          <mxGeometry x="3.5" y="-51.32" width="57.5" height="50.32" as="geometry" />
+        </mxCell>
+        <mxCell id="MdaKC_Cj2TuOLLHy-uLK-59" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.queue_generic;pointerEvents=1;" vertex="1" parent="MdaKC_Cj2TuOLLHy-uLK-46">
+          <mxGeometry x="130" y="149" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MdaKC_Cj2TuOLLHy-uLK-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="MdaKC_Cj2TuOLLHy-uLK-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="1044" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
